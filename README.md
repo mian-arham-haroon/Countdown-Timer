@@ -4,7 +4,7 @@ Here's the correct way to write your **Countdown Timer App** description in a pr
 
 # ⏳ Countdown Timer App using Tkinter
 
-Welcome to the **Countdown Timer App**, a Python-based GUI application developed using **Tkinter** 🐍. This tool provides a simple, user-friendly interface to set timers manually or use quick-access preset timers for daily tasks like brushing, face care, and boiling eggs 🪥🥚🧼. It also includes a real-time digital clock display ⏰.
+Welcome to the **Countdown Timer App**, a Python-based GUI application developed using **Tkinter** 🐍. This tool provides a simple, user-friendly interface to set timers manually or use quick-access preset timers for daily tasks like brushing, face care, and boiling egg 🪥🥚🧼. It also includes a real-time digital clock display ⏰.
 
 ---
 
