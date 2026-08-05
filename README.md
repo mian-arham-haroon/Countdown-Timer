@@ -8,7 +8,7 @@ Welcome to the **Countdown Timer App**, a Python-based GUI application developed
 
 ---
 
-## 🔍 Overview
+## 🔍 Overview:
 
 This app allows users to set a custom countdown timer by inputting hours, minutes, and seconds. Additionally, it offers one-click shortcut buttons to auto-set common durations. The sleek black-themed interface makes it visually appealing and easy to use.
 
